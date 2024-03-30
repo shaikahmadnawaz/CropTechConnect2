@@ -60,7 +60,7 @@ function App() {
         <NavBar username={username}></NavBar>
         <Routes>
           <Route exact path="/" element={<Homepage />}></Route>
-          <Route exact path="/ChatBot" element={<ChatBot />}></Route>
+
           <Route exact path="/Aboutus" element={<AboutUs />}></Route>
           <Route
             exact
