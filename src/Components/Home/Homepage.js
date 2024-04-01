@@ -39,7 +39,6 @@ const Homepage = () => {
       <Container2 />
       <Container3 />
       <Container4 />
-      <Footer />
     </HomeWrapper>
   );
 };
